@@ -1,0 +1,11 @@
+[
+    {
+        "model-name": "AssetCategory",
+        "resource-file": "asset_categories.json"
+    },
+    {
+        "model-name": "permissions",
+        "resource-file": "permissions.json",
+        "table-name": "permissions"
+    }
+]
