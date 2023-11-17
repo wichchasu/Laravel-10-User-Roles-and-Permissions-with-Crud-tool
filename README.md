@@ -3,7 +3,7 @@
 
 ## Installation 
 
-
+### Require Install composer
 - Download the project (or clone using GIT)
 - Copy `.env.example` into `.env` and configure your database credentials
 - Start Docker `docker compose up -d` 
